@@ -25,7 +25,7 @@ I am a Computer Applications undergraduate focused on building practical, reliab
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[Yugen Play](https://github.com/ZenX-Soumyadeep/Yugen_Play-Flutter-Project)** | `Flutter`, `Dart` | Cross-platform media playback application featuring clean UI architecture and local media indexing. |
+| **[Yugen Play](https://github.com/ZenX-Soumyadeep/Yugen-Play)** | `Kotlin`, `Firebase` | Cross-platform media playback application featuring clean UI architecture and local media indexing. |
 | **[NCSpectra (SIH 2026)](https://github.com/ZenX-Soumyadeep/ncspectra)** | `FastAPI`, `React Native`, `TypeScript` | Smart India Hackathon solution for the Narcotics Control Bureau replacing subjective tests with colorimetric analysis. |
 | **[WinFlux-Tool](https://github.com/ZenX-Soumyadeep/WinFlux-Tool)** | `PowerShell`, `Windows API` | Modular OS maintenance and optimization suite automating system debloating and telemetry toggles. |
 | **[blinq-backend](https://github.com/ZenX-Soumyadeep/blinq-backend)** | `Java`, `REST API`, `MySQL` | Backend API service handling data validation, transactional operations, and client request orchestration. |
